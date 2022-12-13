@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vladimir-Penzin
+- 👋 Hi, I’m @Volodymyr-Penzin
 - 👀 I’m interested in Excel
-- 🌱 I’m currently learning Python, HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on app's developers
+- 🌱 I’m currently learning Front-End development
+- 💞️ I’m looking to collaborate on app's/web developers
 - 📫 How to reach me: chat me in Skype (penzin_vladimir)
 
 <!---
